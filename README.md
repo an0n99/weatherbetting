@@ -18,6 +18,7 @@ Welcome to the Weather Betting Platform! This decentralized application (dApp) a
  **Overview**
 
 The Weather Betting Platform allows users to bet on weather conditions using Solana smart contracts. Bets are placed on specific outcomes, and payouts are determined based on the outcome reported by an external oracle service.
+
 Example: https://drive.google.com/file/d/1VVkEy_Hy8t9nsmZMCZvfzGaXHNfE9h5E/view?usp=sharing 
 
  **Bet Program**
@@ -105,6 +106,7 @@ Use the `@solana/web3.js` library to interact with the Solana blockchain. Ensure
    - Deploy your frontend application to a hosting provider.
 
  **Contributing**
+
 Please contribute and create forks of this, to continue to improve it 
 
  
