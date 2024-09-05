@@ -1,6 +1,9 @@
 
 
 *I AM NOT RESPONSIBLE FOR ANY LOSSES INCURRED USING THIS AND I DO NOT HAVE A LIVE VERSION OF THIS, THIS IS PURELY FOR EDUCATIONAL PURPOSES*
+
+--------------------------------------------------------------------------------------
+
 Welcome to the Weather Betting Platform! This decentralized application (dApp) allows users to place bets on weather events at various locations. The platform uses Solana smart contracts to manage bets, calculate odds, and handle payouts, with Chainlink oracles providing the necessary weather data.
 
 **Table of Contents**
